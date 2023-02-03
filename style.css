@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim:100,200,300,500,700&display=swap');
+
+@font-face {
+    font-family: 'CircularStd';
+    src: url('fonts/CircularStd-Book.woff2') format('woff2'),
+    url('fonts/CircularStd-Book.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CircularStd';
+    src: url('fonts/CircularStd-Bold.woff2') format('woff2'),
+    url('fonts/CircularStd-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+.header{
+    color: brown;
+    font-size: 19px;
+}
+Main{
+    color: blue;
+}
+.text_1 h1{
+    font-family: "Kaushan Script" , cursive;
+}
+.text_2{
+    font-family: "Kaushan Script" , sans-serif;
+}
+.logo_2{
+    font-family: "Poppins" ,sans-serif;
+}
+.text_4 p{
+    font-family: "Monotype Corsiva",cursive;
+    font-size: 20px;
+}
+
+.logo_3{
+    font-family: "Kaushan Script", sans-serif ;
+    font-size: 31px;
+}
